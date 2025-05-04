@@ -6,7 +6,8 @@ This is a new line
 # About the Project
 **Some description**
 
-#Project Objectives 
+# Project Objectives 
+Build simple guides and examples on how to use Git and GitHub
 
-# Resources
-Data not available (sensitive)
+# PyCharm Title
+This is a PyCharm example
